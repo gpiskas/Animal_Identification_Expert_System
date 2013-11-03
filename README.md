@@ -1,6 +1,6 @@
 Animal Identification Expert System
 =============================
-This is a simple expert system designed with CLIPS.
+This is a simple expert system implemented in CLIPS.
 
 In order to execute in CLIPS: clear -> load -> reset -> run. <br> The acceptable answers are included in parentheses at the end of each question.
 
