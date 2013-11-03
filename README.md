@@ -6,4 +6,4 @@ In order to execute in CLIPS: clear -> load -> reset -> run. <br> The acceptable
 
 The template definition for the animal is visually explained in the analysis pdf.
 
-Animal Identification Expert System <br> Copyright (C) 2013  George Piskas
+Animal Identification Expert System <br> Copyright (C) 2013  George Piskas 
